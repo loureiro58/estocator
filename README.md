@@ -1,2 +1,2 @@
 # Estocator
-Projeto de gestão de estoque feito em Java EE+Spring Boot resultando em API Rest. #BACK-END
+Java Restful API para o domínio de gestão de estoque.
